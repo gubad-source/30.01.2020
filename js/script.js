@@ -1,4 +1,4 @@
-alert("hello world");
+alert("Hello world");
 document.write("mars is the closest relative to the earth in our solar system")
 var phrase;
 phrase=(" "+"texting messeage");
