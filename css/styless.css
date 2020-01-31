@@ -1,0 +1,16 @@
+body{
+    color:green;
+}
+.nova{
+    background-color: indigo;
+    padding: 1em;
+    float: right 300px;
+    position: relative;
+   
+   
+}
+.star{
+    background-color: red;
+    padding: 1em
+    
+}
