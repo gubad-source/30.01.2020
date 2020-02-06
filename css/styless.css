@@ -1,16 +1,19 @@
 body{
     color:gray;
 }
-.nova{
-    background-color: indigo;
-    padding: 1em;
-    float: right 300px;
-    position: relative;
-   
-   
-}
-.star{
-    background-color: red;
-    padding: 1em
-    
-}
+.red, .intro{
+    color:black;
+   border-bottom-style:solid;
+   border-color:red;
+   border-width:2px;
+};
+.inter{
+    text-decoration: none;
+    color:white;
+    background-color: yellow;
+    padding: 10px;
+    display: inline-block;
+    border-style:solid;
+    border-color: yellow;
+    border-width: 2px;
+};
