@@ -1,19 +1,40 @@
 body{
-    color:gray;
+    color:gray
 }
 .red, .intro{
     color:black;
    border-bottom-style:solid;
    border-color:red;
-   border-width:2px;
-};
-.inter{
-    text-decoration: none;
-    color:white;
-    background-color: yellow;
+   border-width:2px
+}
+#button{
+     color:white;
+    background-color: #00FF00;
+    padding: 17px;
+    display: inline-block;
+    border-style:solid;
+    border-color: black;
+    border-width: 0px;
+    border-radius:35%;
+    font-size:25px ;
+  }
+  .inter{
+    color:black
+  }
+  .paragraph{
+      color: red
+  }
+  .mando{
+    list-style-type: lower-latin;
+  }
+  #btn{
+    color:black;
+    background-color:whitesmoke;
     padding: 10px;
     display: inline-block;
     border-style:solid;
-    border-color: yellow;
-    border-width: 2px;
-};
+    border-color: red;
+    border-width: 2px 2px 2px 18px;
+    
+  }
+ 
