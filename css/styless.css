@@ -1,7 +1,7 @@
 body{
     color:gray
 }
-.red, .intro{
+ .intro{
     color:black;
    border-bottom-style:solid;
    border-color:red;
@@ -17,6 +17,7 @@ body{
     border-width: 0px;
     border-radius:35%;
     font-size:25px ;
+   
   }
   .inter{
     color:black
@@ -24,9 +25,8 @@ body{
   .paragraph{
       color: red
   }
-  .mando{
-    list-style-type: lower-latin;
-  }
+  
+
   #btn{
     color:black;
     background-color:whitesmoke;
@@ -38,3 +38,10 @@ body{
     
   }
  
+img{
+  width:30px
+}
+.mando{
+list-style: none;
+margin-right: 1150px;
+}

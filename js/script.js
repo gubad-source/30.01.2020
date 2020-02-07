@@ -1,4 +1,4 @@
-alert("Hello world");
+/*alert("Hello world");
 document.write("mars is the closest relative to the earth in our solar system")
 var phrase;
 phrase=(" "+"texting messeage");
@@ -167,7 +167,24 @@ document.write("<br>");
 var friends=["josh","frank","merle"]
 for(var i=0;i<friends.length;i++){
     document.write(friends[i]+"<br/>")
-}
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*var password="kamino";
