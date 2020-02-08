@@ -5,25 +5,25 @@ body{
     color:black;
    border-bottom-style:solid;
    border-color:red;
-   border-width:2px
+   border-width:2px;
+   padding-bottom: 15px;
 }
 #button{
+  text-decoration: none;
      color:white;
-    background-color: #00FF00;
-    padding: 17px;
+    background-color: #07da63;
+    padding: 25px;
     display: inline-block;
-    border-style:solid;
-    border-color: black;
-    border-width: 0px;
-    border-radius:35%;
-    font-size:25px ;
+    border-radius:35px;
+    font-size:15px ;
    
   }
   .inter{
     color:black
   }
   .paragraph{
-      color: red
+      color: red;
+      font-style: normal;
   }
   
 
@@ -35,13 +35,17 @@ body{
     border-style:solid;
     border-color: red;
     border-width: 2px 2px 2px 18px;
-    
-  }
+    text-decoration: none;
+     }
  
-img{
-  width:30px
-}
+
 .mando{
 list-style: none;
 margin-right: 1150px;
+padding:0px
+
 }
+.mando img{
+  width:30px
+}
+ 
