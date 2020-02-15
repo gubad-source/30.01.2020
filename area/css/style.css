@@ -74,3 +74,51 @@
     font-size: 50px;
     box-shadow:gray;
 }
+/*...............*/
+#founders{
+    background-color:ivory;
+}
+#founders .intro{
+    border-left-color: hotpink;
+    border-left-style: solid;
+    border-left-width: 5px;
+    margin-left: 20px;
+    position: relative;
+}
+ .intro::before{
+content:'';
+display: inline-block;
+height:60px;
+width: 6px;
+background-color: hotpink;
+position:absolute;
+left:-15px;
+top:0px;
+}
+
+
+
+#founders .intro h4 {
+    font-family: sans-serif;
+    color: hotpink;
+    margin: 20px;
+}
+#founders .intro h1 {
+    font-family: sans-serif;
+    color: black;
+    margin: 20px;
+}
+
+#founders .intro p{
+    font-family: sans-serif;
+    color: gray;
+    margin: 20px;
+    
+}
+
+#founders .pic img{
+    width: 90%;
+    height: 50%;
+    position: relative;
+}
+
