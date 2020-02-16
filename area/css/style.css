@@ -77,6 +77,11 @@
 /*...............*/
 #founders{
     background-color:ivory;
+    
+}
+
+.wow{
+    position:relative;
 }
 #founders .intro{
     border-left-color: hotpink;
@@ -116,11 +121,60 @@ top:0px;
     
 }
 
-#founders .pic img{
+#founders .pic1  img{
     width: 90%;
     height: 50%;
-    position: relative;
+    
+   
 }
+#founders .pic1 h1{
+    display: inline-block;
+    position: absolute;
+    bottom: -510px;
+    left: 75px;
+    background-color: whitesmoke;
+    box-shadow: black;
+    padding: 10px;
+    border-radius: 1px;
+}
+
+
+
+
+
+#founders .pic2  img{
+    width: 90%;
+    height: 50%;
+    
+}
+#founders .pic2 h1{
+    display: inline-block;
+    position: absolute;
+    bottom: -510px;
+    left: 475px;
+    background-color: whitesmoke;
+    box-shadow: black;
+    padding: 10px;
+    border-radius: 1px;
+}
+
+#founders .pic3  img{
+    width: 90%;
+    height: 50%;
+    
+}
+
+#founders .pic3 h1{
+    display: inline-block;
+    position: absolute;
+    bottom: -510px;
+    left: 850px;
+    background-color: whitesmoke;
+    box-shadow: black;
+    padding: 10px;
+    border-radius: 1px;
+}
+
 /*...............*/
 #hotel .rooms{
     font-family: sans-serif;
