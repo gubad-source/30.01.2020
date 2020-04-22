@@ -1,0 +1,135 @@
+#section1 .bomb {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#section1 button {
+  border-top-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+#section1 .map-clock {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+#section1 .nav {
+  margin-top: 70px;
+  margin-bottom: 70px;
+  background-color: tomato;
+  border-radius: 30px;
+  height: 70px;
+  position: relative;
+}
+#section1 ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-size: large;
+}
+#section1 .social {
+  position: absolute;
+  top: 8px;
+  right: 32px;
+  cursor: pointer;
+}
+
+.intro .icon {
+  display: inline-block;
+  padding: 30px;
+  border-radius: 45px;
+  position: absolute;
+  top: -85px;
+  left: 135px;
+}
+.intro .content {
+  padding-bottom: 40px;
+  padding-top: 80px;
+}
+.intro {
+  color: white;
+  font-family: sans-serif;
+  position: relative;
+  margin-top: 250px;
+}
+.image {
+  margin-top: 200px;
+}
+.content1 {
+  margin-top: 200px;
+  font-family: sans-serif;
+  float: right;
+}
+.content1 button {
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.image img {
+  height: 400px;
+}
+
+.package-info {
+  border-radius: 7px;
+  margin-bottom: 30px;
+}
+.package-info button {
+  padding: 15px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+#section5 {
+  height: 800px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  position: relative;
+}
+
+#section5 button {
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+#section5 li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+#section5 .circe {
+  position: absolute;
+  top: -180px;
+  left: 60px;
+}
+#section5 .circle {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#section5 .circle span {
+  position: absolute;
+  color: black;
+  background-color: white;
+  padding: 73px;
+  border: 6px solid teal;
+  border-radius: 50%;
+}
+.circle span::before {
+  content: "$30";
+  font-size: larger;
+  background-color: teal;
+  position: absolute;
+  padding: 45px;
+  border-radius: 50%;
+  top: 14px;
+  left: 14px;
+}
+
+#footer button {
+  border-radius: 25px;
+  border-color: none;
+}
+#footer li {
+  list-style: none;
+  margin-top: 5px;
+  cursor: pointer;
+}
