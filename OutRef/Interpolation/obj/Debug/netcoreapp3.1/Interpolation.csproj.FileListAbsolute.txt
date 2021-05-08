@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.exe
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.deps.json
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.runtimeconfig.json
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.dll
+C:\Users\qubad\Desktop\OutRef\Interpolation\bin\Debug\netcoreapp3.1\Interpolation.pdb
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.AssemblyInfo.cs
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.dll
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.pdb
+C:\Users\qubad\Desktop\OutRef\Interpolation\obj\Debug\netcoreapp3.1\Interpolation.genruntimeconfig.cache

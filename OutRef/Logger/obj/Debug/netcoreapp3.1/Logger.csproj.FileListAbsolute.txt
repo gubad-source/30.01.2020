@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.exe
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.deps.json
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.json
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.dll
+C:\Users\qubad\Desktop\OutRef\Logger\bin\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.AssemblyInfo.cs
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
+C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache

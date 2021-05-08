@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.exe
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.deps.json
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.runtimeconfig.json
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.dll
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\bin\Debug\netcoreapp3.1\ReadonlyAndConst.pdb
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.AssemblyInfo.cs
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.dll
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.pdb
+C:\Users\qubad\Desktop\OutRef\ReadonlyAndConst\obj\Debug\netcoreapp3.1\ReadonlyAndConst.genruntimeconfig.cache

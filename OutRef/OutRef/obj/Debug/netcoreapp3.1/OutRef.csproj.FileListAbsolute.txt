@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.exe
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.deps.json
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.runtimeconfig.json
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.dll
+C:\Users\qubad\Desktop\OutRef\OutRef\bin\Debug\netcoreapp3.1\OutRef.pdb
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.AssemblyInfo.cs
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.dll
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.pdb
+C:\Users\qubad\Desktop\OutRef\OutRef\obj\Debug\netcoreapp3.1\OutRef.genruntimeconfig.cache

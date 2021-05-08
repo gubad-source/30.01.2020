@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.exe
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.deps.json
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.runtimeconfig.json
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.dll
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\bin\Debug\netcoreapp3.1\StatisticMethods.pdb
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.AssemblyInfo.cs
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.dll
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.pdb
+C:\Users\qubad\Desktop\OutRef\StatisticMethods\obj\Debug\netcoreapp3.1\StatisticMethods.genruntimeconfig.cache
