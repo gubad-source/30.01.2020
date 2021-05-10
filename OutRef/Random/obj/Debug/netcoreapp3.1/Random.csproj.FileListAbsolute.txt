@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Random\obj\Debug\netcoreapp3.1\Random.genruntimeconfig.cache

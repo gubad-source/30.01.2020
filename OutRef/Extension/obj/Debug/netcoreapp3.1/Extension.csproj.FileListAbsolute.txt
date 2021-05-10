@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\bin\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Extension\obj\Debug\netcoreapp3.1\Extension.genruntimeconfig.cache

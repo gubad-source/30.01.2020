@@ -11,3 +11,5 @@ C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.csproj.CoreC
 C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.dll
 C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.pdb
 C:\Users\qubad\Desktop\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.genruntimeconfig.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger\obj\Debug\netcoreapp3.1\Logger.pdb

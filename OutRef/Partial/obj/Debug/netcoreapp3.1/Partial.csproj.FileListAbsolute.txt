@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\bin\Debug\netcoreapp3.1\Partial.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Partial\obj\Debug\netcoreapp3.1\Partial.genruntimeconfig.cache

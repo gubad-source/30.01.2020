@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\bin\Debug\netcoreapp3.1\Logger2.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\Logger2\obj\Debug\netcoreapp3.1\Logger2.genruntimeconfig.cache

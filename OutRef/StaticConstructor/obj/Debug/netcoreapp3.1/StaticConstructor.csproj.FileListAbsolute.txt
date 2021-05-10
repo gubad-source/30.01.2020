@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\bin\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\StaticConstructor\obj\Debug\netcoreapp3.1\StaticConstructor.genruntimeconfig.cache
