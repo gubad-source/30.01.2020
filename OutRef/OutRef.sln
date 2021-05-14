@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryandUnsafe", "TernaryandUnsafe\TernaryandUnsafe.csproj", "{E69725F4-D129-47D9-AC07-AE0D4EFD64DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{72FEED58-2EE6-4E52-A5EF-B58651AD3D6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E69725F4-D129-47D9-AC07-AE0D4EFD64DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E69725F4-D129-47D9-AC07-AE0D4EFD64DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E69725F4-D129-47D9-AC07-AE0D4EFD64DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FEED58-2EE6-4E52-A5EF-B58651AD3D6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FEED58-2EE6-4E52-A5EF-B58651AD3D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FEED58-2EE6-4E52-A5EF-B58651AD3D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FEED58-2EE6-4E52-A5EF-B58651AD3D6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
