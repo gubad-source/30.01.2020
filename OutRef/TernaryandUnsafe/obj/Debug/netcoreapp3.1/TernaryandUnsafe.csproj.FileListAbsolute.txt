@@ -1,0 +1,12 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\bin\Debug\netcoreapp3.1\TernaryandUnsafe.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\TernaryandUnsafe\obj\Debug\netcoreapp3.1\TernaryandUnsafe.genruntimeconfig.cache
