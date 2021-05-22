@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\bin\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\BoxingAndUnboxing\obj\Debug\netcoreapp3.1\BoxingAndUnboxing.genruntimeconfig.cache

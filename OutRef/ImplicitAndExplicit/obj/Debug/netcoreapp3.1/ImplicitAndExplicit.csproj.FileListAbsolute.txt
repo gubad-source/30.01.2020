@@ -1,0 +1,12 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\bin\Debug\netcoreapp3.1\ImplicitAndExplicit.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\ImplicitAndExplicit\obj\Debug\netcoreapp3.1\ImplicitAndExplicit.genruntimeconfig.cache
