@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.exe
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.deps.json
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.json
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.dll
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\bin\Debug\netcoreapp3.1\Delegation.pdb
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfo.cs
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.dll
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.pdb
+C:\Users\qubad\Desktop\P 317\30.01.2020\OutRef\Delegation\obj\Debug\netcoreapp3.1\Delegation.genruntimeconfig.cache

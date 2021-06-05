@@ -1,0 +1,13 @@
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.exe
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.deps.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.runtimeconfig.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.runtimeconfig.dev.json
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\bin\Debug\netcoreapp3.1\IsAndAs.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.csprojAssemblyReference.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.AssemblyInfoInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.AssemblyInfo.cs
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.csproj.CoreCompileInputs.cache
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.dll
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.pdb
+C:\Users\qubad\Desktop\30.01.2020\OutRef\IsAndAs\obj\Debug\netcoreapp3.1\IsAndAs.genruntimeconfig.cache
